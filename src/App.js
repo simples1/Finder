@@ -20,7 +20,7 @@ const App = () => {
 
     setTimeout(() => {
       setAlert(null);
-    }, 3000);
+    }, 5000);
   };
 
   return (
